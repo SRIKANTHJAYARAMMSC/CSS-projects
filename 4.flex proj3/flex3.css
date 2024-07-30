@@ -1,0 +1,318 @@
+
+.startcontainer{
+    height: 600px;
+    background-image: url('./images/lab.jpg');
+    background-size: cover;
+    width: 100%;
+}
+.start{
+    opacity: 0.7;
+    height: 600px;
+    background-color: darkorange;
+}
+.start span{
+    display: none;
+}
+.start1{
+    /* width: 10%; */
+    height: 100px;
+}
+.start1 ul{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.start1 li{
+    margin-top: 25px;
+    list-style: none;
+}
+.start1 li a{
+    font-size: 20px;
+    color: black;
+    padding: 5px;
+}
+
+.start1 li a:hover{
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+    background-color: black;
+}
+.start2 h1{
+    text-align: center;
+    margin-top: 150px;
+    color: #fff;
+    letter-spacing: 5px;
+    font-size: 40px;
+}
+.start2{
+    text-align: center;
+    margin-top: 190px;
+    color: #fff;
+    letter-spacing: 3px;
+}
+.start2 input{
+    text-align: center;
+    margin-top: 20px;
+    height: 35px;
+    width: 260px;
+    border: none;
+    border-top-left-radius: 200px;
+    border-bottom-left-radius: 200px;
+}
+.start2 button{
+    height: 35px;
+    padding: 5px;
+    border: none;
+    color: #fff;
+    background-color: palevioletred;
+    border-top-right-radius:200px ;
+    border-bottom-right-radius:200px ;
+}
+.secondcontainer{
+    display: flex;
+    padding: 100px 100px;
+    background-color: #e0dada;
+}
+.second{
+    display: flex;
+}
+.secondcontainer .container{
+    margin-left: 5px;
+    padding-right: 5px;
+}
+.second .fa-wordpress{
+    font-size: 35px;
+    margin-right: 9px;
+    color: red;
+}
+.container p{
+line-height: 25px;
+}
+.thirdcontainer{
+    background-color: #fff;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+}
+.thirdcontainer .third{
+    text-align: center;
+    padding-top: 90px;
+}
+.third p{
+    margin-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.thirdimg{
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.thirdimg img{
+    height: 250px;
+    width: 360px;
+    margin-left: 15px;
+    margin-top: 15px;
+
+}
+.thirdimg .img1{
+    position: relative;
+}
+.thirdimg .posision{
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+}
+.posision{
+    color: #fff;
+}
+.posision h4,p{
+    font-size: 20px;
+}
+.fourcontainer{
+    background-image: url('./images/OIP.jpg');
+    height: 600px;
+    background-size: cover;   
+    background-color: aqua;
+    padding-left: 100px;
+    padding-right: 100px;
+
+    /* opacity: 0.4; */
+
+}
+.fourcontainer .four{
+    text-align: center;
+    padding-top: 70px;
+}
+.four p{
+font-size: 30px;
+color: #fff;
+}
+.four1{
+    display: flex;
+    padding-top: 90px;
+}
+.fourpara{
+    width: 500px;
+    border: 2px solid white;
+    padding: 10px;
+    position: relative;
+    margin: 10px; 
+}
+.fourpara1{
+    margin: 10px; 
+    border: 2px solid white;
+    width: 500px;
+    height: 150px;
+    padding: 10px;
+
+}
+.fourposition{
+   
+
+}
+.fourposition p{
+    font-size: 30px;
+    height: 25px;
+    background-color: orangered;
+    color: #fff;
+     border: 2px solid orangered;
+    border-radius: 900px;
+    position: absolute;
+}
+.fivecontainer{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 90px;
+}
+.five{
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.five p{
+    margin-top: 15px;
+}
+.fiveflex{
+    /* padding-left: 100px;
+    padding-right: 100px; */
+    display: flex;
+    margin-top: 100px;
+}
+.flex1{
+    /* width: 300px; */
+    /* border: 1px solid black; */
+    margin-right: 20px;
+    background-color: #e5e3e3;
+    padding-bottom: 15px;
+}
+.flex1 img{
+    width: 360px;
+    height: 290px;
+}
+.flex1 p,
+.flex1 h3 {
+    margin-top: 5px;
+    padding: 10px;
+}
+.flex1 h5{
+    margin-top: 5px;
+    width: 60px;
+    padding: 5px;
+    background-color: red;
+    color: #fff;
+    border: 1px solid red;
+}
+.flex1 button{
+    margin-top: 5px;
+    margin-left: 5px;
+    padding: 6px;
+    background-color: red;
+    color: #fff;
+    border-radius: 30px;
+    cursor: pointer;
+    border: none;
+
+}
+.flex1 button:hover{
+    margin-top: 5px;
+    margin-left: 5px;
+    padding: 6px;
+    background-color: green;
+    color: #fff;
+}
+.sixcontainer{
+    height: 360px;
+    background-color: rgb(30, 11, 11);
+    text-align: center;
+    padding-top: 250px;
+}
+.sixcontainer h1{
+     color: #fff;
+}
+.sixcontainer p{
+    margin-top: 15px;
+    color: #fff;
+}
+.sixcontainer button{
+    margin-top: 25px;
+    color: #fff;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 400px;
+    border: none;
+    width: 300px;
+    background-color: red;
+}
+.sevancontainer{
+    padding: 100px 100px;
+    
+}
+.sevan{
+    display: flex;
+}
+.sevancontainer .listitem{
+    width: 45%;
+    /* border: 1px solid black; */
+    display: flex;
+    padding: 20px;
+}
+.list ul li {
+    margin-top: 10px;
+    margin-left: 70px;
+    list-style: none;
+    width: 70px;
+    border-bottom: 2px solid black;
+}
+.listpara{
+    width: 45%;
+    /* border: 1px solid black; */
+    margin-left: 20px;
+    padding: 20px;
+}
+.listpara p{
+    margin-top: 10px;
+    line-height: 25px;
+}
+.listpara a{
+    /* margin-top: 30px; */
+    line-height: 30px;
+    color: red;
+}
+.last{
+    text-align: center;
+    padding-top: 180px;
+}
+.last a{
+    margin: 0 7px;
+    color: red;
+    cursor: pointer;
+}
+.fa-user,.fa-person-half-dress,.fa-shield-halved,.fa-gear{
+    margin-top: 20px;
+    margin-left:15px ;
+    color: red;
+    font-size: 20px;
+}

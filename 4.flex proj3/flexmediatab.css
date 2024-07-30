@@ -1,0 +1,168 @@
+@media only screen and (min-width:767px) and (max-width:998px) {
+
+    .thirdcontainer{
+        background-color: #fff;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 0px;
+    }
+    .thirdimg img{
+        height: 232px;
+        width: 223px;
+        margin-left: 15px;
+        margin-top: 15px;
+    }
+    .fivecontainer{
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 90px;
+    }
+    .flex1 img{
+        width: 230px;
+        height: 260px;
+    }
+.sixcontainer{
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 266px;
+    padding-top: 130px;
+}
+.sevancontainer{
+    padding: 40px 20px;
+    
+}
+.list ul li {
+    margin-left: 45px;
+}
+.listpara{
+    margin-left: 5px;
+}
+.last{
+    padding-top: 50px;
+}
+    
+}
+
+@media only screen and (min-width:393px) and (max-width:576px) {
+
+
+    .fullcontaineer{
+        width: 100%;
+        overflow: hidden;
+        }
+    .startcontainer{
+ height: 490px; 
+ /* width: 10%;   */
+}
+.start{
+    height: 490px;
+}
+.start2{
+    margin-top: 90px;
+    
+}
+    .start span{
+        display: block;
+        padding-top: 10px;
+        margin-left: 10px;
+        font-size: 20px;
+    }
+.start1 li{
+    display: none;
+}
+.start2 h1{
+    text-align: center;
+    margin-top: 98px;
+    color: #fff;
+    letter-spacing: 1px;
+    font-size: 35px;
+}
+.start2 p{
+    font-size: 11px;
+}
+.start2 input{
+    width: 150px;
+}
+.secondcontainer{
+    display: flex;
+    flex-direction: column;
+    padding: 20px 15px;
+    background-color: #e0dada;
+}
+.second{
+    display: flex;
+    margin-top: 20px;
+}
+.thirdcontainer{
+    padding: 20px 15px;
+
+}
+.thirdcontainer .third{
+    text-align: center;
+    padding-top: 15px;
+}
+.third p{
+    margin-top: -10px;
+    padding: 20px 15px;
+    
+}
+.thirdimg img{
+    width: 347px;
+}
+.fivecontainer{
+    padding: 20px 15px;
+}
+.five{
+    padding: 20px 15px;
+
+}
+
+.fiveflex{
+    display: flex;
+    flex-direction: column;
+}
+.flex1{
+    width: 370px;
+    margin: 2px;
+}
+.flex1 img{
+    width: 370px;
+    height: 270px;
+}
+.sixcontainer{
+    height: 315px;
+    background-color: rgb(30, 11, 11);
+    text-align: center;
+    padding-top: 70px;
+}
+.sixcontainer button{
+    width: 240px;
+}
+.sevancontainer{
+    padding: 20px 0px;
+    
+}
+.sevan{
+    display: flex;
+    flex-direction: column;
+}
+.sevancontainer .listitem{
+    display: flex;
+    /* flex-direction: column; */
+}
+.list ul li {
+    margin-top: 20px;
+    margin-left: 19px;
+    list-style: none;
+    border-bottom: 2px solid black;
+}
+.list{
+    margin-top: 25px;
+}
+.listpara{
+    width: 83%;
+}
+.last{
+    padding-top: 40px;
+}
+}
