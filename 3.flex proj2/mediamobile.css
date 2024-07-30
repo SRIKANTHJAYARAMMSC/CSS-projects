@@ -1,0 +1,15 @@
+
+@media only screen and(min-width:393px)and(max-width:576px) {
+    .nav .nav1{
+        width: 40%;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        padding-top: 20px;
+        padding-left: 30px; 
+        /* color: black; */
+    
+    }
+    .nav .nav2{
+        display: none;
+    }
+}
